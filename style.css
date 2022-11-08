@@ -1,0 +1,173 @@
+.leftitems{
+    font-family: 'Open Sans', sans-serif;
+    list-style: none;
+    font-size: normal;
+
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    position: absolute;
+    width: 72px;
+    height: 36px;
+    left: 1293px;
+    top: 49px;
+    font-size: normal;
+    font-family: 'Poppins';
+
+
+}
+.contact{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 98px;
+    height: 36px;
+    left: 1455px;
+    top: 49px;
+    font-size: normal;
+    font-family: 'Poppins';
+
+
+}
+.poweredby{
+    position: absolute;
+    width: 141px;
+    height: 36px;
+    left: 1617px;
+    top: 51px;
+    font-size: normal;
+    font-family: 'Poppins';
+
+
+}
+.nilon{
+    position: absolute;
+    width: 125px;
+    height: 48px;
+    left: 1766px;
+    top: 25px;
+}
+html{
+    position: relative;
+    width: 100%;
+    height: 100%px;
+    background: #D9D9D9;
+    
+}
+.title
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    font-size: normal;
+    color: #372929;
+    position: absolute;
+    width: 451px;
+    height: 101px;
+    left: 1132px;
+    top: 426px;
+    font-family: 'Poppins';
+
+}
+.subtitle
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    position: absolute;
+    width: 434px;
+    height: 54px;
+    left: 1132px;
+    top: 541px;
+    font-size: normal;
+    font-family: 'Poppins';
+
+}
+.button1
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    position: absolute;
+    width: 208px;
+    height: 89px;
+    left: 1132px;
+    top: 642px;
+    font-size: normal;
+}
+.rightitems{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-size: normal;
+    position: absolute;
+    width: 219px;
+    height: 43px;
+    left: 231px;
+    top: 47px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    color: #372929;
+}
+.logito{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 162px;
+    top: 37px;
+}
+.slide{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    left: 73px;
+    top: 55px;
+}
+.boton1{
+
+    position: absolute;
+    width: 208px;
+    height: 89px;
+    left: 1132px;
+    top: 642px;
+
+}
+.ellipsegrande{
+    position: absolute;
+    width: 533px;
+    height: 512px;
+    left: 1553px;
+    top: 746px;
+    
+
+}
+.ellipsemediano{
+    position: absolute;
+    width: 237px;
+    height: 232px;
+    left: 341px;
+    top: 746px;
+
+}
+.ellipsepequeno{
+
+    position: absolute;
+    width: 186px;
+    height: 181px;
+    left: 815px;
+    top: 194px;
+
+}
